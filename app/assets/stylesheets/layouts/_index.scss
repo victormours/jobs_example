@@ -3,3 +3,11 @@
 // @import "dashboard";
 // @import "profile";
 // @import "map";
+
+.twitter-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
